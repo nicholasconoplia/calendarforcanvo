@@ -1,0 +1,14 @@
+{
+  "name": "calendarforcanvo",
+  "version": "1.0.0",
+  "description": "Calendar subscription for Canvo app tasks",
+  "main": "generate-ics.js",
+  "scripts": {
+    "build": "node generate-ics.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
+} 
